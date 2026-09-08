@@ -5,7 +5,7 @@ function Intro() {
           JUNIOR SOFTWARE DEVELOPER AND COFFEE LOVER.
         </h3>
 
-        <div className="flex justify-between italic tracking-tight text-sm px-1 pt-4 pb-8 gap-4 md:pt-8 md:pb-10 md:gap-13 md:text-2xl xl:pt-15 xl:pb-20 xl:text-4xl xl:gap-30 2xl:gap-40 2xl:text-6xl 2xl:pb-30">
+        <div className="flex justify-between italic tracking-tight text-[13px] px-1 pt-4 pb-8 gap-4 md:pt-8 md:pb-10 md:gap-13 md:text-2xl xl:pt-15 xl:pb-20 xl:text-4xl xl:gap-30 2xl:gap-40 2xl:text-6xl 2xl:pb-30">
           <h3>Curious by nature.</h3>
           <h3>Committed to growth.</h3>
           <h3>Coding with purpose.</h3>
