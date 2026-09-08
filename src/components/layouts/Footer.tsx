@@ -6,7 +6,7 @@ import Linkedin from "../../assets/icons/linkedin.svg"
 
 function Footer() {
   return (
-    <footer className="tracking-wider justify-center place-items-center py-3 bg-[#C2C8CC]">
+    <footer className="flex flex-col tracking-wider justify-center place-items-center py-3 bg-[#C2C8CC]">
       <h2 className="text-xs font-semibold md:text-2xl xl:text-4xl 2xl:text-6xl">LET'S BUILD SOMETHING AMAZING TOGETHER</h2>
       <div className="flex place-items-center gap-13 xl:gap-50 py-3 xl:py-8  ">
         <a href="https://github.com/ShaheenMohammed/">

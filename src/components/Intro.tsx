@@ -1,11 +1,11 @@
 function Intro() {
   return (
-    <div className="place-items-center font-editorial text-white">
-        <h3 className="text-center font-bold tracking-widest text-xs pt-8 px-2 md:pt-10 md:text-xl xl:text-2xl xl:pt-20 2xl:pt-25 2xl:text-4xl 2xl:pb-20">
+    <div className="flex flex-col justify center place-items-center font-editorial text-white">
+        <h3 className="text-center font-bold tracking-widest text-xs pt-8 px-1 md:pt-10 md:text-xl xl:text-2xl xl:pt-20 2xl:pt-25 2xl:text-4xl 2xl:pb-20">
           JUNIOR SOFTWARE DEVELOPER AND COFFEE LOVER.
         </h3>
 
-        <div className="flex justify-between italic tracking-tight text-[13px] px-1 pt-4 pb-8 gap-4 md:pt-8 md:pb-10 md:gap-13 md:text-2xl xl:pt-15 xl:pb-20 xl:text-4xl xl:gap-30 2xl:gap-40 2xl:text-6xl 2xl:pb-30">
+        <div className="flex justify-between italic tracking-tight text-xs px-2 pt-4 pb-8 gap-4 md:pt-8 md:pb-10 md:gap-13 md:text-2xl xl:pt-15 xl:pb-20 xl:text-4xl xl:gap-30 2xl:gap-40 2xl:text-6xl 2xl:pb-30">
           <h3>Curious by nature.</h3>
           <h3>Committed to growth.</h3>
           <h3>Coding with purpose.</h3>
