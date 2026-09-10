@@ -8,7 +8,7 @@ function Projects() {
             <img className="pt-6 md:pt-10 xl:w-120 2xl:pt-10 2xl:w-5xl" src={OtakuNestImage} />
         </div>
         <div className="pt-6 md:pt-10 xl:pt-0 2xl:pt-10">
-            <h2 className="tracking-wider font-semibold md:text-xl xl:text-4xl xl:pb-20">OTAKUNEST</h2>
+            <h2 className="tracking-wider font-semibold md:text-xl xl:text-4xl xl:pb-20"><a href="https://github.com/ShaheenMohammed/OtakuNest">OTAKUNEST</a></h2>
                 <p className="text-sm font-extralight pt-5 md:text-base xl:text-2xl">
                     A personal media application that aims to provide a unified experience to view your personal collection of anime and manga.  The application is being built using Spring Framework, React, PostgreSQL, Redis, Nginx, and Docker.
                 </p>
