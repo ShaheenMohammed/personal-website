@@ -1,4 +1,4 @@
-import OtakuNestImage from "../assets/images/OtakuNest-image.jpg"
+import OtakuNestImage from "../assets/images/OtakuNest-image-reduced.jpg"
 
 function Projects() {
   return (

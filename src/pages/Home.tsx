@@ -3,7 +3,7 @@ import Intro from "../components/Intro"
 import Footer from "../components/layouts/Footer"
 import Header from "../components/layouts/Header"
 import Projects from "../components/Projects"
-import photo from "../assets/images/personal-website-photo-crop.jpg"
+import photo from "../assets/images/personal-website-photo-crop-reduced.jpg"
 
 function Home() {
 
